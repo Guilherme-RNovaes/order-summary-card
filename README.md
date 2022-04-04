@@ -25,7 +25,7 @@ Esta é uma solução para o [desafio Order summary card no Frontend Mentor](htt
 
 ### Links
 
-- Visualização do site: [Visualizar](https://guilherme-rnovaes.github.io/nft-preview-card/)
+- Visualização do site: [Visualizar](https://guilherme-rnovaes.github.io/order-summary-card/)
 
 
 ## Meu processo
